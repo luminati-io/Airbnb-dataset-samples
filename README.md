@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Airbnb property listings</h2>
 
-![Airbnb dataset header](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/airbnb">
+   <img src="https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets.png" alt="airbnb datasets" />
+</a>
 
 A Airbnb dataset sample of over 1000 property listings. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -35,7 +37,7 @@ dataset which includes more than <b>11,000,000 companies</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, airbnb S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
@@ -44,7 +46,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 <b>[Get the full Airbnb dataset](https://brightdata.com/products/datasets/airbnb)</b>.
 
 
-![Airbnb dataset visual](https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/airbnb-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/airbnb">
+   <img src="https://github.com/luminati-io/Airbnb-dataset-samples/blob/main/dataset-promotions.png" alt="airbnb datasets" />
+</a>
 
 <h2>What are the Airbnb datasets use cases?</h2>
 
